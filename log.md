@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 9, 2017
+### Day 0: January 8, 2017
 
 **Today's Progress**: Learned about 100  Days of Code, set up github, gitter, and ran through 'Getting Started' section on freeCodeCamp.
 
