@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - PhantomMike Log
 
 ### Day 0: January 8, 2017
 
