@@ -7,6 +7,14 @@
 **Thoughts:** Took a lot longer than expected just to get everything set up, still learning. Looking forward to learning html/css and beyond!
 
 **Link to work:** Nothing yet!
+
+### Day 1: January 9, 2017
+
+**Today's Progress**: Ran through first 20 challenges on FCC, HTML5 and CSS.  Also wrote some Java code to verify school final questions.
+
+**Thoughts:** Some of the html in the tool did not render properly.  Had to mess around with it and used some workarounds.  Similar problem in IE though.
+
+**Link to work:** Nothing in github yet!
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
