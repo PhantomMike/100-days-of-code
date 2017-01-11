@@ -1,4 +1,13 @@
+
 # 100 Days Of Code - PhantomMike Log
+
+### Day 2: January 10, 2017
+
+**Today's Progress**: Ran through additional 20 challenges on FCC.  Learned about more basic HTML and CSS functionality such as forms, different input types, using ids, and padding/border/margin.  Also checked in resultant "cat photo app" html to git hub that has been the code I have been building up over the past few days.
+
+**Thoughts:** It's been fun to work on this stuff and also to make a standalone html file that I checked in and pushed to githum, and that can also be loaded in the browser.
+
+**Link to work:** https://github.com/PhantomMike/100-days-of-code/blob/master/cat%20photo%20app.html
 
 ### Day 1: January 9, 2017
 
