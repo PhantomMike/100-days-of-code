@@ -1,9 +1,8 @@
-
 # 100 Days Of Code - PhantomMike Log
 
 ### Day 3: January 11, 2017
 
-**Today's Progress**: Finished up last 15 or so challenges in FCC HTML5 & CSS, then started looking at the Responsive Deign section with Bootsrap. Learned more about padding/border/margin and dug into the relative priority of specifying style and it can be overidden. Looks like the last style listed in the CSS class wins, and ID trumps class, and style declared in the element itself is highest priority. Also learned about different ways to specify colors including #000000 (hex), #000 (abbreviated hex), or rgb(0, 0, 0)(rgb).  Started the Bootstrap stuff but will dig into that tomorrow.
+**Today's Progress**: Finished up last 15 or so challenges in FCC HTML5 & CSS, then started looking at the Responsive Deign section with Bootsrap. Learned more about padding/border/margin and dug into the relative priority of specifying style and it can be overidden. Looks like the last style listed in the CSS class wins, and ID trumps class, and style declared inline in the element itself is highest priority. Also learned about different ways to specify colors including #000000 (hex), #000 (abbreviated hex), or rgb(0, 0, 0)(rgb).  Started the Bootstrap stuff but will dig into that tomorrow.
 
 **Thoughts:** Lots of ways to specify colors and padding/border/margin, the latter attributes and their relationship still isn't crystal clear.  Was good to learn how html5 prioritizes conflicting styles specified in various ways.
 
