@@ -1,5 +1,11 @@
 # 100 Days Of Code - PhantomMike Log
 
+### Day 4: January 12, 2017
+
+**Today's Progress**: Took a break from FCC to work on Java code for FTC Robotics. Tested student's line following code, ran some simulations, and provided a few suggested tweaks.
+
+**Thoughts:** Looking forward to the FTC Robotics student's tournament this weekend!
+
 ### Day 3: January 11, 2017
 
 **Today's Progress**: Finished up last 15 or so challenges in FCC HTML5 & CSS, then started looking at the Responsive Deign section with Bootsrap. Learned more about padding/border/margin and dug into the relative priority of specifying style and it can be overidden. Looks like the last style listed in the CSS class wins, and ID trumps class, and style declared inline in the element itself is highest priority. Also learned about different ways to specify colors including #000000 (hex), #000 (abbreviated hex), or rgb(0, 0, 0)(rgb).  Started the Bootstrap stuff but will dig into that tomorrow.
