@@ -1,10 +1,17 @@
 # 100 Days Of Code - PhantomMike Log
 
+### Day 5: January 16, 2017
+**Today's Progress**:  Took several days off to focus on FTC Robotics and recover. ;-) Back working on FCC, did the first 18 challenges using Bootstrap and put the resultant html file up on github.
+
+**Thoughts:** There is beginning to be a lot more to remember, lots of classes and CSS packages to use!
+
 ### Day 4: January 12, 2017
 
 **Today's Progress**: Took a break from FCC to work on Java code for FTC Robotics. Tested student's line following code, ran some simulations, and provided a few suggested tweaks.
 
 **Thoughts:** Looking forward to the FTC Robotics student's tournament this weekend!
+
+**Link to work:** https://github.com/PhantomMike/100-days-of-code/blob/master/CatPhotoAppWithBootstrap.html
 
 ### Day 3: January 11, 2017
 
