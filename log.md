@@ -1,5 +1,10 @@
 # 100 Days Of Code - PhantomMike Log
 
+### Day 6: January 17, 2017
+**Today's Progress:** Back to FCC coding again. Finished up the FCC Bootstrap section as well as the following 'Gear Up For Success' section. Ready to jump into the jQuery topic tomorrow!
+
+**Thoughts:** Finishing up the last Bootstrap section, especially the preparing for jQuery section, gave me more confidence I was retaining the information from Bootstrap. I'm interested in seeing how much of this information I continue to retain as I move forward.
+
 ### Day 5: January 16, 2017
 **Today's Progress**:  Took several days off to focus on FTC Robotics and recover. ;-) Back working on FCC, did the first 18 challenges using Bootstrap and put the resultant html file up on github.
 
