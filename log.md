@@ -6,6 +6,8 @@
 
 **Thoughts:** Fun stuff, reminds me of some experience with "dynamic html" many years ago...
 
+**Link to work:** https://github.com/PhantomMike/100-days-of-code/blob/master/jquery1.html
+
 ### Day 6: January 17, 2017
 **Today's Progress:** Back to FCC coding again. Finished up the FCC Bootstrap section as well as the following 'Gear Up For Success' section. Ready to jump into the jQuery topic tomorrow!
 
