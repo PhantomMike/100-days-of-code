@@ -2,7 +2,7 @@
 
 ### Day 7: January 18, 2017
 
-**Today's Progress:** Worked on the first half of the jQuery lessons, published sample html on github.
+**Today's Progress:** Worked on the first half of FCC jQuery lessons, published sample html on github.
 
 **Thoughts:** Fun stuff, reminds me of some experience with "dynamic html" many years ago...
 
