@@ -1,5 +1,13 @@
 # 100 Days Of Code - PhantomMike Log
 
+### Day 8: January 19, 2017
+
+**Today's Progress:** Finished jQuery lessons, published sample html on github. Learn about CodePen tomorrow!
+
+**Thoughts:** Enjoyed working through it, jQuery has a lot of capability. Looking forward to CodePen and starting my first project tomorrow.
+
+**Link to work:** https://github.com/PhantomMike/100-days-of-code/blob/master/jquery2.html
+
 ### Day 7: January 18, 2017
 
 **Today's Progress:** Worked on the first half of FCC jQuery lessons, published sample html on github.
