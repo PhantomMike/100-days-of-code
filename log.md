@@ -2,7 +2,7 @@
 
 ### Day 8: January 19, 2017
 
-**Today's Progress:** Finished jQuery lessons, published sample html on github. Learn about CodePen tomorrow!
+**Today's Progress:** Finished FCC jQuery lessons, published sample html on github. Learn about CodePen tomorrow!
 
 **Thoughts:** Enjoyed working through it, jQuery has a lot of capability. Looking forward to CodePen and starting my first project tomorrow.
 
