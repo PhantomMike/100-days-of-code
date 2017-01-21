@@ -2,7 +2,7 @@
 
 ### Day 9: January 20, 2017
 
-**Today's Progress:** Created CodePen account and ran through tutorial, ready to start Tribute Page tomorrow!
+**Today's Progress:** Created CodePen account and ran through tutorial, ready to start FCC Tribute Page tomorrow!
 
 **Thoughts:** Looking forward to using this new tool and digging into the first meaty challenge/project.
 
