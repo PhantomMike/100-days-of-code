@@ -1,5 +1,13 @@
 # 100 Days Of Code - PhantomMike Log
 
+### Day 9: January 20, 2017
+
+**Today's Progress:** Created CodePen account and ran through tutorial, ready to start Tribute Page tomorrow!
+
+**Thoughts:** Looking forward to using this new tool and digging into the first meaty challenge/project.
+
+**Link to work:** https://codepen.io/PhantomMike/pen/zNwYyv
+
 ### Day 8: January 19, 2017
 
 **Today's Progress:** Finished FCC jQuery lessons, published sample html on github. Learn about CodePen tomorrow!
