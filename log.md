@@ -1,4 +1,10 @@
-# 100 Days Of Code - PhantomMike Log
+### Day 10: January 23, 2017
+
+**Today's Progress:** Missed a few days, but I have a first take at my FCC Tribute Page!
+
+**Thoughts:** I needed to poke around in my FCC work to help me get started and remember some of the bootstrap syntax. I also did some web searches to help me customize the look of the page a bit more and tune some spacing.  Overall I'm pretty happy with it, will finish it up tomorrow, submit for feedback, and move forward.
+
+**Link to work:** http://codepen.io/PhantomMike/full/RKgMwN/
 
 ### Day 9: January 20, 2017
 
