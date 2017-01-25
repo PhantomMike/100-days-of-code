@@ -1,3 +1,11 @@
+### Day 11: January 24, 2017
+
+**Today's Progress:** Worked on a small Java project I'll be teaching tomorrow, and finished up my FCC Tribute Page on codepen!
+
+**Thoughts:** I'm pretty happy with the tribute page. I tried to keep it pretty simple and focus on using the skills and tools I learned, rather than trying to get too fancy and trying to do a bunch of stuff I haven't really learned yet.  More time for that down the road...
+
+**Link to work:** http://codepen.io/PhantomMike/full/RKgMwN/
+
 ### Day 10: January 23, 2017
 
 **Today's Progress:** Missed a few days, but I have a first take at my FCC Tribute Page!
