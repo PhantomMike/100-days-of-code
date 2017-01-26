@@ -1,3 +1,9 @@
+### Day 12: January 25, 2017
+
+**Today's Progress:** Started FCC Porfolio Page on codepen. Needs more planning, only very rough skelton so far.
+
+**Thoughts:** Need to decide how fancy I want this to be. I'm going to focus on usign the grid/columns in boostrap and going from there, so this will primarily be a bootstrap learning exercise.
+
 ### Day 11: January 24, 2017
 
 **Today's Progress:** Worked on a small Java project I'll be teaching tomorrow, and finished up my FCC Tribute Page on codepen!
