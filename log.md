@@ -2,7 +2,7 @@
 
 **Today's Progress:** Started FCC Porfolio Page on codepen. Needs more planning, only very rough skeleton so far.
 
-**Thoughts:** Need to decide how fancy I want this to be. I'm going to focus on usign the grid/columns in boostrap and going from there, so this will primarily be a bootstrap learning exercise.
+**Thoughts:** Need to decide how fancy I want this to be. I'm going to focus on using the grid/columns in boostrap and going from there, so this will primarily be a bootstrap learning exercise.
 
 ### Day 11: January 24, 2017
 
