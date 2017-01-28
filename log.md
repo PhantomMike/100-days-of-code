@@ -1,3 +1,9 @@
+### Day 13: January 27, 2017
+
+**Today's Progress:** Made good progress on Portfolio Page on codepen. Structure is all there, just needs assets to finish it up.
+
+**Thoughts:** I'm pretty happy with where this is heading. I've used a bit of jscript for classes to make that a little more concise but I'm not sure if that is the 'best' way to do things.  Functionality was not to hard to get done, did some web searches for bootstrap helpers.  Should be able to finish it up tomorrow.
+
 ### Day 12: January 25, 2017
 
 **Today's Progress:** Started FCC Porfolio Page on codepen. Needs more planning, only very rough skeleton so far.
