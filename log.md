@@ -1,6 +1,6 @@
 ### Day 14: January 28, 2017
 
-**Today's Progress:** Made more tweaks to the page, instead of finishing up the portfolio thumbnails. Learned more about bootstrap table layout and button tweaks, how to jump to different parts of a page.
+**Today's Progress:** Made more tweaks to the page, instead of finishing up the portfolio thumbnails. Learned more about bootstrap grid layout and button tweaks, how to jump to different parts of a page.
 
 **Thoughts:** Enjoying learing about bootstrap and what it can do for me so I will continue to tweak before finishing up.
 
