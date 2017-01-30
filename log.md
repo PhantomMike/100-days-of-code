@@ -1,3 +1,11 @@
+### Day 15: January 29, 2017
+
+**Today's Progress:** Finished up the Portfolio page! Implemented the thumbnails, gave hover effect, had them link to the appropriate code pen page. Also used fontawesome to add neat glyphs to my contact buttons for codepen, facebook, linkedin.
+
+**Thoughts:** Nice to work on the Portfolio page to finish the functionality and add some nice touches. Ready to move on, next FCC section is all about java script.
+
+**Line to work:** http://codepen.io/PhantomMike/full/RKgMwN/
+
 ### Day 14: January 28, 2017
 
 **Today's Progress:** Made more tweaks to the page, instead of finishing up the portfolio thumbnails. Learned more about bootstrap grid layout and button tweaks, how to jump to different parts of a page.
