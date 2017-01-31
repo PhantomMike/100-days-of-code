@@ -1,3 +1,9 @@
+### Day 16: January 30, 2017
+
+**Today's Progress:** Started up java script section of FCC. Cranked through about the first 20 lessons.
+
+**Thoughts:** Pretty basic so far, lookking forward to learning more. There is a lot in this section!
+
 ### Day 15: January 29, 2017
 
 **Today's Progress:** Finished up the Portfolio page! Implemented the thumbnails, gave hover effect, had them link to the appropriate code pen page. Also used fontawesome to add neat glyphs to my contact buttons for codepen, facebook, linkedin.
