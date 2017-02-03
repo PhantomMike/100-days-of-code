@@ -1,8 +1,14 @@
+### Day 17: February 2, 2017
+
+**Today's Progress:** Putting aside FCC to work on sample implementation of Java app for my student's next project that parses files containing biological virus information and does interesting things with them.
+
+**Thoughts:** Should take one more day and then will get back to FCC and java script.
+
 ### Day 16: January 30, 2017
 
 **Today's Progress:** Started up java script section of FCC. Cranked through about the first 20 lessons.
 
-**Thoughts:** Pretty basic so far, lookking forward to learning more. There is a lot in this section!
+**Thoughts:** Pretty basic so far, looking forward to learning more. There is a lot in this section!
 
 ### Day 15: January 29, 2017
 
