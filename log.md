@@ -1,3 +1,7 @@
+### Day 18: February 4, 2017
+
+**Today's Progress:** Continued to put aside FCC to work on sample implementation of Java app for my student's next project that parses files containing biological virus information and does interesting things with them.
+
 ### Day 17: February 2, 2017
 
 **Today's Progress:** Putting aside FCC to work on sample implementation of Java app for my student's next project that parses files containing biological virus information and does interesting things with them.
