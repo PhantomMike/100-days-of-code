@@ -2,6 +2,8 @@
 
 **Today's Progress:** Continued to put aside FCC to work on sample implementation of Java app for my student's next project that parses files containing biological virus information and does interesting things with them.
 
+**Thoughts:** Done with first phase, sending in for feedback from fellow teachers and refinement.  Will also write the entire sample app as the overall project is in 3 stages and fairly complex, so want to make sure we are on target with the complexity and size of the work requested and time allowed.
+
 ### Day 17: February 2, 2017
 
 **Today's Progress:** Putting aside FCC to work on sample implementation of Java app for my student's next project that parses files containing biological virus information and does interesting things with them.
