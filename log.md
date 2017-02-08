@@ -1,3 +1,9 @@
+### Day 20: February 7, 2017
+
+**Today's Progress:** Continued to put aside FCC to finish sample implementation of Java app for my student's next project involving biological viruses. 
+
+**Thoughts:** It is basically done now. May make a few tweaks based on feedback but I'll go back to FCC and Javascript tomorrow.
+
 ### Day 19: February 6, 2017
 
 **Today's Progress:** Continued to put aside FCC to work on sample implementation of Java app for my student's next project involving biological viruses. 
