@@ -1,3 +1,9 @@
+### Day 21: February 8, 2017
+
+**Today's Progress:** Tweaked Java virus sample app and went back to FCC! Did about 20 of the Javascript lessons. 
+
+**Thoughts:** The Javascript lessons are pretty basic right now. Variables, math, string literals, bracket notation, concatenation, that kind of stuff. Next lessons deal with arrays.
+
 ### Day 20: February 7, 2017
 
 **Today's Progress:** Continued to put aside FCC to finish sample implementation of Java app for my student's next project involving biological viruses. 
