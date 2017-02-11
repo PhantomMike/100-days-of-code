@@ -1,3 +1,9 @@
+### Day 22: February 10, 2017
+
+**Today's Progress:** Updated Java biological virus sample app, accomodating feedback. 
+
+**Thoughts:** Met to discuss sample app with colleagues and made agreed upon changes to documentation and implementation.
+
 ### Day 21: February 8, 2017
 
 **Today's Progress:** Tweaked Java virus sample app and went back to FCC! Did about 20 of the Javascript lessons. 
