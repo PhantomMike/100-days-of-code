@@ -1,3 +1,9 @@
+### Day 23 & 24: February 12 & 13, 2017
+
+**Today's Progress:** Updated Java biological virus sample app, accomodating more feedback. 
+
+**Thoughts:** Met to discuss sample app with colleagues, made additional changes to documentation and implementation. New quality projects for students definitely take a lot of work! :-)
+
 ### Day 22: February 10, 2017
 
 **Today's Progress:** Updated Java biological virus sample app, accomodating feedback. 
