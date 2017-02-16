@@ -1,3 +1,9 @@
+### Day 25: February 15, 2017
+
+**Today's Progress:** Back to FCC and learning Javascript, did all the array challenges! 
+
+**Thoughts:** Arrays are interesting, type doesn't matter.  You can push/pop an element on/off the end of an array and you can shift/unshift an element to/off the front of an array.  Syntax is same and access is via familiar square brackets. 
+
 ### Day 23 & 24: February 12 & 13, 2017
 
 **Today's Progress:** Updated Java biological virus sample app, accomodating more feedback. 
