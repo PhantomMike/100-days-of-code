@@ -1,3 +1,9 @@
+### Day 26: February 16, 2017
+
+**Today's Progress:** FCC and learning Javascript, functions and scope today. 
+
+**Thoughts:** The lack of types is still strange. Also learned if you declare a variable without the var it becomes automatically global in scope!
+
 ### Day 25: February 15, 2017
 
 **Today's Progress:** Back to FCC and learning Javascript, did all the array challenges! 
