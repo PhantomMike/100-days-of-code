@@ -1,3 +1,9 @@
+### Day 27: February 17, 2017
+
+**Today's Progress:** FCC and learning Javascript challenges completed: conditionals, expressions, booleans, switch. 
+
+**Thoughts:** The only thing odd was the "strict equality" of === which means both the type and value need to be the same, normal equality == will convert types and then compare.
+
 ### Day 26: February 16, 2017
 
 **Today's Progress:** FCC and learning Javascript, functions and scope today. 
