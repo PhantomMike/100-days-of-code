@@ -1,3 +1,9 @@
+### Day 28: February 18, 2017
+
+**Today's Progress:** Back to Java sample for students' project, wrote Java sample and slides to demonstrate difference between Comparable and Comparator interfaces. 
+
+**Thoughts:** Will get this reviewed and tweak it for next week of school, want to think more about if it is clear.
+
 ### Day 27: February 17, 2017
 
 **Today's Progress:** FCC and learning Javascript challenges completed: conditionals, expressions, booleans, switch. 
