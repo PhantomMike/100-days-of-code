@@ -1,3 +1,9 @@
+### Day 29: February 19, 2017
+
+**Today's Progress:** FCC learning JavaScript, learned about objects. Fascinating! 
+
+**Thoughts:** Interesting how objects present themselves as an array different types of elements, with key value pairs separated by a colon used to access/store.  So, you access fields in the object by referencing it's property.  Can be accessed either via dot notation or bracket notation, the latter is required if the property name has a space in it.  Can also add items to object, delete items, and check if a field exists in the object.
+
 ### Day 28: February 18, 2017
 
 **Today's Progress:** Back to Java sample for students' project, wrote Java sample and slides to demonstrate difference between Comparable and Comparator interfaces. 
