@@ -2,7 +2,7 @@
 
 **Today's Progress:** Finished FCC JavaScript! Learned about loops, regular expressions, & random.
 
-**Thoughts:** If you want to access a property in an object, and the property is stored in a variable, then you need to access using square brackets [] after verifying the property exists with hasOwnProperty. Access via the dot operator does not work.
+**Thoughts:** If you want to access a property in an object, and the property name is stored in a variable, then you need to access using square brackets [] after verifying the property exists with hasOwnProperty. Access via the dot operator does not work.
 
 ### Day 29: February 19, 2017
 
