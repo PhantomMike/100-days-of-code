@@ -1,3 +1,9 @@
+### Day 31 & 32: February 21 & 22, 2017
+
+**Today's Progress:** Finished FCC Object Oriented and Functional Programming sections!
+
+**Thoughts:** Starting to get more comfortable with embedding function declarations inline. Looks like these lessons are essentially showing how to use a variety of builtin methods associated with arrays/objects.  Need more practice with all of this stuff, looks like teh challenges coming up will help with that.  Also learned about contructors, private properties, and methods in objects.
+
 ### Day 30: February 20, 2017
 
 **Today's Progress:** Finished FCC JavaScript! Learned about loops, regular expressions, & random.
