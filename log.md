@@ -1,6 +1,6 @@
 ### Day 33: February 23, 2017
 
-**Today's Progress:** Worked on a few of the FCC Basic Algorithm Scripting challenges.
+**Today's Progress:** Did first three FCC Basic Algorithm Scripting challenges, palindromes are next.
 
 **Thoughts:** Need to figure out how replacing works with regular expressions.
 
