@@ -1,3 +1,9 @@
+### Day 33: February 23, 2017
+
+**Today's Progress:** Worked on a few of the FCC Basic Algorithm Scripting challenges.
+
+**Thoughts:** Need to figure out how replacing works with regular expressions.
+
 ### Day 31 & 32: February 21 & 22, 2017
 
 **Today's Progress:** Finished FCC Object Oriented and Functional Programming sections!
