@@ -1,3 +1,9 @@
+### Day 34 & 35: February 24 & 25, 2017
+
+**Today's Progress:** Finished all FCC Basic Algorithm Scripting challenges.
+
+**Thoughts:** Learned some good stuff, String.replace with regular expressions, String.split to create an array out of the String with specified delimiiter, String.join to build a string from an array with a specified delimiter.  Array.map to iterate and create a new array, Array.reduce to iterate and return a value, Array.filter uses to create a new array with elements removed, and basic Array methods like reverse, sort, and concat.
+
 ### Day 33: February 23, 2017
 
 **Today's Progress:** Did first three FCC Basic Algorithm Scripting challenges, palindromes are next.
