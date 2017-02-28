@@ -1,6 +1,6 @@
 ### Day 36 & 37: February 26 & 27, 2017
 
-**Today's Progress:** Took FCC break to evaluate codecademy HTML&CSS tutorial.
+**Today's Progress:** Took FCC break to evaluate codecademy HTML & CSS tutorial.
 
 **Thoughts:** It's pretty interesting and quite well done so far. Tends to have more explanations and detail than FCC, possibly better for beginners. Doesn't seem to have more significant challenges though like FCC does, at least not yet.  Will continue to explore this, seems like a good tool for students up at school.
 
