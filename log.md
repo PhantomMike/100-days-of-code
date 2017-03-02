@@ -1,6 +1,6 @@
 ### Day 38: March 1, 2017
 
-**Today's Progress:** Took FCC break to evaluate codecademy HTML & CSS tutorial.
+**Today's Progress:** Continuing FCC break to evaluate codecademy HTML & CSS tutorial, colors and fonts.
 
 **Thoughts:** Learned a lot about colors and fonts in these two sections.  Very instructive lessons with good examples to code in to see how the output is effected by the changes.
 
