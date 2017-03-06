@@ -1,3 +1,9 @@
+### Day 39: March 5, 2017
+
+**Today's Progress:** Continuing FCC break to evaluate codecademy HTML & CSS tutorial: ids, classes, and divs.
+
+**Thoughts:** Straightforward stuff.
+
 ### Day 38: March 1, 2017
 
 **Today's Progress:** Continuing FCC break to evaluate codecademy HTML & CSS tutorial, colors and fonts.
