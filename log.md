@@ -1,3 +1,9 @@
+### Day 40: March 8, 2017
+
+**Today's Progress:** Continuing FCC break to evaluate codecademy HTML & CSS tutorial: borders and box model.
+
+**Thoughts:** Straightforward stuff.
+
 ### Day 39: March 5, 2017
 
 **Today's Progress:** Continuing FCC break to evaluate codecademy HTML & CSS tutorial: ids, classes, and divs.
