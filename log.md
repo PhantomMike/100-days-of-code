@@ -1,3 +1,9 @@
+### Day 41: March 9, 2017
+
+**Today's Progress:** Continuing FCC break to evaluate codecademy HTML & CSS tutorial: css positioning and images.
+
+**Thoughts:** A bit more confusing with all the different ways to place things, and position, and sometimes a requirement for dependent tags in order for certain things to work. Doesn't seem to memorable, will definitely need to reference this material in the future.
+
 ### Day 40: March 8, 2017
 
 **Today's Progress:** Continuing FCC break to evaluate codecademy HTML & CSS tutorial: borders and box model.
