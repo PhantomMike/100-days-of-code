@@ -1,3 +1,9 @@
+### Day 42: March 11, 2017
+
+**Today's Progress:** Continuing FCC break, learned tables and finished codecademy "Learn HTML & CSS: Part I" tutorial!
+
+**Thoughts:** Tables were pretty straightforward.  I noticed the summary at the end of the tables lesson contained a very nice page of the entire lesson including the motivation and the elements involved and how they are used.  This was very compact and could be used as a reference.  I think it might be cool to assemble some notes for this entire course that has basically the summary page from each lesson.  That would make for a nice cheat sheet for html coding moving forward!  Perhaps make a web site that does this easily?
+
 ### Day 41: March 9, 2017
 
 **Today's Progress:** Continuing FCC break to evaluate codecademy HTML & CSS tutorial: css positioning and images.
