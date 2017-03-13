@@ -1,3 +1,9 @@
+### Day 43: March 12, 2017
+
+**Today's Progress:** Built a web page/pen that will store notes and summaries from my html/css/jscript studies.
+
+**Thoughts:** This was pretty fun but took a long time. I took my portfolio page project from fcc and used it as the framework for a new site that will track notes I have as I take various html/css/jscript courses.  Most of what is in there now is just summary pages from each section of the codeacademy tutorial I took, but I can build from that.
+
 ### Day 42: March 11, 2017
 
 **Today's Progress:** Continuing FCC break, learned tables and finished codecademy "Learn HTML & CSS: Part I" tutorial!
