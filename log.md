@@ -1,3 +1,9 @@
+### Day 44: March 28, 2017
+
+**Today's Progress:** Yikes, been out for 2 weeks! Worked on Java code for sample apps in preparation for AP CS exam polymorphism review.
+
+**Thoughts:** Was out of town for most of a week, and super busy otherwise with volunteer and family stuff. Starting to get back into the coding groove.
+
 ### Day 43: March 12, 2017
 
 **Today's Progress:** Built a web page/pen that will store notes and summaries from my html/css/jscript studies.
