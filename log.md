@@ -1,3 +1,9 @@
+### Day 45: March 30, 2017
+
+**Today's Progress:** Completed first two sections of codecademy Learn Java Script course.
+
+**Thoughts:** Pretty basic stuff: console output, types (string, numbers, boolean), variables, conditionals, interpolation.
+
 ### Day 44: March 28, 2017
 
 **Today's Progress:** Yikes, been out for 2 weeks! Worked on Java gridworld code for sample apps in preparation for AP CS exam polymorphism review.
