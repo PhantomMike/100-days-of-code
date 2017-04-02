@@ -1,3 +1,9 @@
+### Day 48: April 2, 2017
+
+**Today's Progress:** Worked through a new React demo published by Samer Buna.
+
+**Thoughts:** It was pretty straightforward except I painfully learned the difference between single quotes and apostrophes!!
+
 ### Day 47: April 1, 2017
 
 **Today's Progress:** Finished gridworld Java sample implementation for final project in prep for AP CS exam polymorphism review.
