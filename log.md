@@ -1,3 +1,9 @@
+### Day 47: April 1, 2017
+
+**Today's Progress:** Finished gridworld Java sample implementation for final project in prep for AP CS exam polymorphism review.
+
+**Thoughts:** Took about 3-4 hours and 350 lines of code to complete, more than expected perhaps.
+
 ### Day 46: March 31, 2017
 
 **Today's Progress:** Completed functions, scope, arrays, and loops in codecademy Learn Java Script course.
