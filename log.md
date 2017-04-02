@@ -1,3 +1,9 @@
+### Day 46: March 31, 2017
+
+**Today's Progress:** Completed functions, scope, arrays, and loops in codecademy Learn Java Script course.
+
+**Thoughts:** Good review, no surprises.  Looking forward to the jQuery section coming up next!
+
 ### Day 45: March 30, 2017
 
 **Today's Progress:** Completed first two sections of codecademy Learn Java Script course.
