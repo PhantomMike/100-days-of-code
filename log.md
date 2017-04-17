@@ -1,3 +1,9 @@
+### Day 49: April 17, 2017
+
+**Today's Progress:** Completed final section of codecademy Learn JavaScript course, DOM and JQuery.  Also updated learnings web page.
+
+**Thoughts:** Finally back to some coding.  Glad to finish of jscript and learn more about the DOM and jQuery, I think I have a good basic understanding there.  Also spent time fixing up my codepen learnings web page so it has links to the most important jscript learnings.
+
 ### Day 48: April 2, 2017
 
 **Today's Progress:** Worked through a new React demo published by Samer Buna.
