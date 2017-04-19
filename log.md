@@ -1,3 +1,9 @@
+## Day 50: April 11, 2017
+
+**Today's Progress:** Back to FCC, completed JSON Apis and Ajax section.  
+
+**Thoughts:** Finally back to FCC, completed JSON/Ajax section which was pretty straighforward, mostly copy/paste.  Also used jQuery which I had been learning more about in the previous codecademy course. It was cool to bring down data in jason format using jquery apis and use that information to set html elements to change the content of the web page. Will need to learn more by digging in with the projects which are coming up next.
+
 ## Day 49: April 17, 2017
 
 **Today's Progress:** Completed final section of codecademy Learn JavaScript course, DOM and JQuery.  Also updated learnings web page.
