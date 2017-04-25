@@ -2,7 +2,7 @@
 
 **Today's Progress:** Wrote presentation and sample code to explain for-each loops and their limitations.
 
-**Thoughts:** Needed to take another break from FCC to work on some prep material and sample code to explain for-each loops better.  The class needed this material to prepare for the AP CS exam comging up next week. Will present it tomorrow.
+**Thoughts:** Needed to take another break from FCC to work on some prep material and sample code to explain for-each loops better.  The class needed this material to prepare for the AP CS exam coming up next week. Will present it tomorrow.
 
 ## Day 50: April 18, 2017
 
