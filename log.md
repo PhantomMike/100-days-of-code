@@ -1,3 +1,9 @@
+## Day 52: April 25, 2017
+
+**Today's Progress:** Coded up several FRQ example questions for AP CS exam.
+
+**Thoughts:** Implemented 3 FRQ questions in preparation for going through these in class tomorrow.  Sorting, 2d array multiplication, and hex/decimal/binary conversions were main challenges.
+
 ## Day 51: April 24, 2017
 
 **Today's Progress:** Wrote presentation and sample code to explain for-each loops and their limitations.
