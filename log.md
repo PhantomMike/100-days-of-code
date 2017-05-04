@@ -1,3 +1,9 @@
+## Day 53: May 3, 2017
+
+**Today's Progress:** Coded up some .net gadgeteer and FCC Code Challenge. 
+
+**Thoughts:** Did some .net gadgeteer to prepare the class for next week.  Did FCC Code Challenge for reversing the words in a sentence.
+
 ## Day 52: April 25, 2017
 
 **Today's Progress:** Coded up several FRQ example questions for AP CS exam.
