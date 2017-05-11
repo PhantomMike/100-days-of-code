@@ -1,3 +1,9 @@
+## Day 54: May 10, 2017
+
+**Today's Progress:** Working on some post-AP projects using VS and C# to write console apps.
+
+**Thoughts:** Helping out with some compare and contrast of IDEs and managed languages.  Working on code to use system speaker to play tunes.
+
 ## Day 53: May 3, 2017
 
 **Today's Progress:** Coded up some .net gadgeteer and FCC Code Challenge. 
