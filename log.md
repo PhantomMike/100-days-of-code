@@ -1,6 +1,6 @@
-## Day 55: May 11, 2017
+# Day 55: May 11, 2017
 
-**Today's Progress:** Moare work using VS and C# to write various console apps.
+**Today's Progress:** More work using VS and C# to write various console apps.
 
 **Thoughts:** Helping out with some compare and contrast of IDEs and managed languages.  Finished code to use system speaker to play tunes.
 
