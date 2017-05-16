@@ -1,4 +1,10 @@
-# Day 55: May 11, 2017
+## Day 56: May 15, 2017
+
+**Today's Progress:** Playing around with VS, C#, and WPF apps this week.
+
+**Thoughts:** Helping out with some compare and contrast of IDEs and managed languages.  Using WPF to build some GUI apps since we've been building mostly console apps the whole class year.
+
+## Day 55: May 11, 2017
 
 **Today's Progress:** More work using VS and C# to write various console apps.
 
