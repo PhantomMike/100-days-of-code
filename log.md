@@ -1,6 +1,6 @@
-## Day 57: May 16, 2017
+ ## Day 57: May 16, 2017
 
-**Today's Progress:** Wrote a simple calculator app in C# using WPF.
+**Today's Progress:** Wrote a [simple calculator app](SimpleCalculator.jpg) in C# using WPF.
 
 **Thoughts:** Helping out with some compare and contrast of IDEs and managed languages.  Using WPF to build a GUI calculator app to learn more about the platform.
 
