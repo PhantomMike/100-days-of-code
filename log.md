@@ -1,4 +1,10 @@
- ## Day 57: May 16, 2017
+## Day 58: May 17, 2017
+
+**Today's Progress:** Gear shift, python tutorial and pygame zero. Now I can say I've at least played with Python!
+
+**Thoughts:** Thought it would be interesting to actually try out Python since lots of folks mention it and I've never played with it.  I went through the first 6 or 7 sections of the Pythn Tutorial on python.org and also played with the "pygame zero" environment.  Now I have a basic idea what the environment and code looks like, and how it works at a high level.
+
+## Day 57: May 16, 2017
 
 **Today's Progress:** Wrote a [simple calculator app](SimpleCalculator.jpg) in C# using WPF.
 
