@@ -1,3 +1,9 @@
+## Day 59: May 22, 2017
+
+**Today's Progress:** Gear shift again, playing with .net gadgeteer this week! Fixing environment, running basic "Hello LED" app.
+
+**Thoughts:** Probably the final set of technology for our class this year.  Working on the environment and troubleshooting, writing code that turns on LEDs, uses timers, uses the primitive display - will get to using other components such as buttons and joysticks.
+
 ## Day 58: May 17, 2017
 
 **Today's Progress:** Gear shift, python tutorial and pygame zero. Now I can say I've at least played with Python!
