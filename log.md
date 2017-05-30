@@ -1,3 +1,9 @@
+## Day 60: May 29, 2017
+
+**Today's Progress:** .net gadgeteer wrote simple app to work with display, research problems with non-working displays.
+
+**Thoughts:** Display working on second device. Cleaned up and tested old apps.  Wrote simple screen testing app that flips colors.
+
 ## Day 59: May 22, 2017
 
 **Today's Progress:** Gear shift again, playing with .net gadgeteer this week! Fixing environment, running basic "Hello LED" app.
