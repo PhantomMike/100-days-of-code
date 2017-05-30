@@ -2,7 +2,7 @@
 
 **Today's Progress:** .net gadgeteer wrote simple app to work with display, research problems with non-working displays.
 
-**Thoughts:** Display working on second device. Cleaned up and tested old apps.  Wrote simple screen testing app that flips colors.
+**Thoughts:** Display working on second device. Cleaned up and tested old apps.  Wrote simple screen testing app that flips colors.  Will try simple display test program on various hardware tomorrow to see what works and try LCD config on non-functional devices to see if that resolves the problem.
 
 ## Day 59: May 22, 2017
 
