@@ -1,3 +1,9 @@
+## Day 61: May 30, 2017
+
+**Today's Progress:** .net gadgeteer - wrote simple "weather station" app using sensors and lcd display. (yesterday)
+
+**Thoughts:** Utilized both the gas sensor and the temperature/humidity sensor to write a simple "weather station" app. It shows the current values of the sensor and also draws a graph of all sensor readings for the past minute or so.  Also tried test program on various hardware with updated LCD config on non-functional devices, but did not resolve the problem.
+
 ## Day 60: May 29, 2017
 
 **Today's Progress:** .net gadgeteer wrote simple app to work with display, research problems with non-working displays.
