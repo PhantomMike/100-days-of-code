@@ -1,3 +1,9 @@
+## Day 62: June 1, 2017
+
+**Today's Progress:** Solved codecademy code challenge of the week (no. 6 - word xform) - tougher than expected! 
+
+**Thoughts:** Challenge is here: https://discuss.codecademy.com/t/challenge-word-transformation/84306  Conceptually it was abit difficult to wrap my head around the varoius permutations.  Decided on recursive solution which has a few bugs which caused non-optimal, though correct results.  Took a while to figure out how to ensure that each recursive call made the problem set smaller (by retaining the set of words already used to ensure they weren't reused during the recursion.)
+
 ## Day 61: May 30, 2017
 
 **Today's Progress:** .net gadgeteer - wrote simple "weather station" app using sensors and lcd display. (yesterday)
