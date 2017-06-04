@@ -1,3 +1,9 @@
+## Day 63: June 3, 2017
+
+**Today's Progress:** Did Relative Measurements section fo codecademy Responsive Deisgn course.
+
+**Thoughts:** Working through a new codecademy course, the next one recommended which is called Responsive Design.  Will do this and possiblyk a few more recommended courses on codecademy before going back to FCC to work on projects.
+
 ## Day 62: June 1, 2017
 
 **Today's Progress:** Solved codecademy code challenge of the week (no. 6 - word xform) - tougher than expected! 
