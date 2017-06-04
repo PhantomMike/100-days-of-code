@@ -1,8 +1,8 @@
 ## Day 63: June 3, 2017
 
-**Today's Progress:** Did Relative Measurements section fo codecademy Responsive Deisgn course.
+**Today's Progress:** Did Relative Measurements section for codecademy Responsive Design course.
 
-**Thoughts:** Working through a new codecademy course, the next one recommended which is called Responsive Design.  Will do this and possiblyk a few more recommended courses on codecademy before going back to FCC to work on projects.
+**Thoughts:** Began a new codecademy course, the next one recommended which is called Responsive Design.  Will do this and possibly a few more recommended courses on codecademy before going back to FCC to work on projects.
 
 ## Day 62: June 1, 2017
 
