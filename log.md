@@ -1,3 +1,9 @@
+## Day 64: June 4, 2017
+
+**Today's Progress:** Did Media Queries section to finish codecademy Responsive Design course.
+
+**Thoughts:** Media queries are typically used to ensure that the site scales and/or arranges itself properly when on different size screens.  Typically the media query can react to the size (width or height) of the window, or also to the screen's dpi.  Queries can be logically combined ('and' for && and ',' for ||) in order to meet multiple criteria. The body of the media query contains the CSS changes required when the conditions are met.  I wonder if boostrap may handle most of this for the consumer of that library?
+
 ## Day 63: June 3, 2017
 
 **Today's Progress:** Did Relative Measurements section for codecademy Responsive Design course.
